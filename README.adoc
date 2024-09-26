@@ -24,21 +24,21 @@ This project holds a showcase for SigNoz and Golang related things.
 - https://gorm.io/index.html
 - https://signoz.io/
 
-== Tracing
+=== Tracing
 
 - https://opentelemetry.io/docs/collector/
 
-== Metrics
+=== Metrics
 
 - https://prometheus.io/
 - https://github.com/penglongli/gin-metrics
 - https://medium.com/@yianwilson/custom-prometheus-metrics-468ea7c4d1d0
 
-== Logging
+=== Logging
 
 - https://github.com/rs/zerolog
 
-== Testing
+=== Testing
 
 - https://github.com/lucaspickering/slumber
 - https://hurl.dev/

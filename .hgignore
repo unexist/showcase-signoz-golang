@@ -1,0 +1,12 @@
+syntax: glob
+
+**/*.iml
+*.iml
+
+*.bin
+
+target/
+.idea/
+.mvn/
+
+infrastructure/signoz/clickhouse-setup/data/
